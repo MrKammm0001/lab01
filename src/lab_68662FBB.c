@@ -2,11 +2,17 @@
 
 void printscreen()
 {
-    // Please write your code here
+    // TODO: write your code here
+    printf(" #### \n");
+    printf("#    #\n");
+    printf("#    #\n");
+    printf("######\n");
+    printf("#    #\n");
+    printf("#    #\n");
+    printf("#    #\n");
 }
 
-// DO NOT change the code below
-#ifndef ___TEST___
+#ifndef __TEST__
 int main()
 {
     printscreen();
